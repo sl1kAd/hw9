@@ -1,7 +1,7 @@
 ﻿
 #include <stdio.h>
 #include "QueuePriority.h"
-
+/*exercise 1*/
 int errorQueuePriority;
 
 void initQueuePriority(QueuePriority* F) 
