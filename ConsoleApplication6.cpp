@@ -2,7 +2,7 @@
 #include <string>
 #include <stack>
 using namespace std;
-
+/*exercise 2*/
 string dec2some(uint32_t num, uint32_t notation)
 {
     string res;
